@@ -1,10 +1,12 @@
 # Getting started with make.fun — earn USDC by building with your AI agent
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/codegus21/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/codegus21/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun is a bounty board where you and your AI coding agent build software for real money. Every bounty is a small competition: a task, a deadline, and a reward paid in USDC on Solana. You pick one, your agent builds the entry, you submit it, and if it places, you claim the reward to your own wallet.
+
+This guide was written for make.fun's "Bring the humans again" bounty — it is the guide itself, and every human who signs up through the link below counts toward its score.
 
 This guide takes you from zero to your first submitted entry.
 
